@@ -1,3 +1,4 @@
+@import url("./syles/navbar.css");
 @import url("./syles/cabeçalho.css");
 
 :root{
@@ -5,7 +6,8 @@
     --fonte-Principal: font-family: 'Inter', sans-serif;
     --cor-cinza: color: #667085;
     --cor-fundo: backgrond: #ffff;
-
+    --cor-vermelha: color: #8E2424;
+    --cinza-escuro: color: #101828;
 }
 
 body{

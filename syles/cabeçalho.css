@@ -1,60 +1,31 @@
 .cabeçalho{
-    display: flex;
-    align-items: center;
+    text-align: center;
+}
+
+.cabeçalho__texto.foco{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #8E2424;
+    padding: 85px 0 0.5em ;
+
+}
+
+.cabeçalho__titulo{
+    color: #101828;;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    padding: 24px;
+}
+
+.cabeçalho__texto{
+    color: #667085;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+
+
+}
     
-}
-
-.cabeçalho__logo{
-    font-family: var(--fonte-Principal);
-    font-weight: 500;
-    font-size: 18px;
-    align-items: center;
-    margin:1em 1em 0 4px ;   
-}
-
-.cabeçalho__img{
-    margin: 1em 0.5em 0 6em ;
-   
-}
-
-.navegacao{
-    display: flex;
-    justify-content: center;
-    margin: auto;
-}
-  
-
-.navegacao__pag{
-    font-family: var(--fonte-Principal);
-    text-decoration: none;
-    font-weight: 500;
-    color: #667085;
-    margin: 1em;
-    padding: 10px 18px;
-
-
-}
-
-.navegacao__acesso{
-    font-family: var(--fonte-Principal);
-    text-decoration: none;
-    font-weight: 500;
-    color: #667085;
-    padding: 10px 18px;
-    gap:8px;
-}
-
-.botao{
-    border-radius: 8px;
-    border: 1px solid #8E2424;
-    background: #8E2424;
-    color: #ffff;
-
-
-}
-
-
-
-
-
-
