@@ -1,0 +1,13 @@
+@import url("./syles/cabeçalho.css");
+
+:root{
+
+    --fonte-Principal: font-family: 'Inter', sans-serif;
+    --cor-cinza: color: #667085;
+    --cor-fundo: backgrond: #ffff;
+
+}
+
+body{
+    background: var(--cor-fundo);
+}
