@@ -1,9 +1,11 @@
 @import url("./syles/navbar.css");
 @import url("./syles/cabeçalho.css");
+@import url("./syles/seçao.css");
+
 
 :root{
 
-    --fonte-Principal: font-family: 'Inter', sans-serif;
+    --fonte-Principal: font-family: 'Inter';
     --cor-cinza: color: #667085;
     --cor-fundo: backgrond: #ffff;
     --cor-vermelha: color: #8E2424;
