@@ -1,0 +1,42 @@
+main{
+    padding: 50px 50px;
+}
+.vagas{
+    display: inline;
+    text-align: center;
+}
+
+.vagas__subtitulo{
+    color: #8E2424;
+    font-family: 'inter';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.vagas__titulo{
+    color: #101828;
+    font-family: 'inter';
+    font-size: 36px;
+    font-weight: 600;
+    margin: 16px;
+    line-height: 44px; /* 122.222% */
+    letter-spacing: -0.72px
+}
+
+.vagas__texto{
+   color: #667085;
+   font-family: 'inter';
+   font-size: 20px;
+   font-weight: 400;
+   margin-bottom: 3em;
+   line-height: 30px;
+}
+
+.vagas__imagem{
+    position:relative;
+    width: 85vw;
+    text-align: center;
+    
+}
+
+

@@ -1,6 +1,7 @@
 @import url("./syles/navbar.css");
 @import url("./syles/cabeçalho.css");
 @import url("./syles/seçao.css");
+@import url("./syles/vagas.css");
 
 
 :root{
@@ -15,3 +16,4 @@
 body{
     background: var(--cor-fundo);
 }
+
