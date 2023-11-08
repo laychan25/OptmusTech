@@ -1,0 +1,61 @@
+.rodape{
+    display: flex;
+    flex-direction: column;
+    margin: 96px;
+    align-items: center;
+
+}
+
+.rodape__titulo{
+    font-family: 'inter';
+    font-weight: 600;
+    font-size: 36px;
+     color:var(--cinza-escuro);
+}
+
+.rodape__texto{
+   color: var(--cor-cinza);
+   font-family: 'inter';
+   font-weight: 400;
+   font-size: 20px;
+   padding:20px 0 40px 0px;
+}
+
+.rodape__email{
+    border-radius: 8px;
+    border: 1px solid #D0D5DD;
+     color: var(--cor-cinza);
+     font-size: 16px;
+     font-weight: 400;
+     padding: 12px 14px 12px 16px;
+
+}
+
+.container__botoes{
+    display: flex;
+    gap: 16px;
+    padding-bottom: 32px;
+
+}
+
+.rodape__botao{
+    border-radius: 8px;
+    border: 1px solid var(--cor-vermelha);
+    background: var(--cor-vermelha);
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 500;
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+    color: var(--cor-fundo);
+}
+
+.rodape__direitos{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'inter';
+    color: var(--cor-cinza);
+  
+
+}

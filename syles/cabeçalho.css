@@ -6,13 +6,13 @@
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     font-size: 16px;
-    color: #8E2424;
+    color: var(--cor-vermelha);
     padding: 85px 0 0.5em ;
 
 }
 
 .cabeçalho__titulo{
-    color: #101828;;
+    color:var(--cinza-escuro);
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     font-size: 48px;
@@ -20,7 +20,7 @@
 }
 
 .cabeçalho__texto{
-    color: #667085;
+    color: var(--cor-cinza);
     font-family: 'Inter', sans-serif;
     text-align: center;
     font-weight: 400;

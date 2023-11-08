@@ -4,15 +4,16 @@
 @import url("./syles/vagas.css");
 @import url("./syles/trabalho.css");
 @import url("./syles/depoimento.css");
+@import url("./syles/rodape.css");
 
 
 :root{
 
-    --fonte-Principal: font-family: 'Inter';
-    --cor-cinza: color: #667085;
-    --cor-fundo: backgrond: #ffff;
-    --cor-vermelha: color: #8E2424;
-    --cinza-escuro: color: #101828;
+    --fonte-Principal: 'Inter';
+    --cor-cinza: #667085;
+    --cor-fundo: #ffff;
+    --cor-vermelha: #8E2424;
+    --cinza-escuro: #101828;
 }
 
 body{

@@ -10,14 +10,14 @@
     font-family: 'inter';
     font-size: 14px;
     font-weight: 600;
-    color: #8E2424;
+    color: var(--cor-vermelha);
 }
 
 .depoimentos__texto{
     font-size: 36px;
     font-family: 'inter';
     font-weight: 500;
-    color: #101828;
+    color: var(--cinza-escuro);
     text-align: center;
     padding: 16px 0 32px 0;
 }
@@ -33,5 +33,5 @@
     font-family: 'inter';
     font-size:14px ;
     font-weight: 400;
-    color:#667085;
+    color: var(--cor-cinza);
 }

@@ -7,14 +7,14 @@ main{
 }
 
 .vagas__subtitulo{
-    color: #8E2424;
+    color:var(--cor-vermelha);
     font-family: 'inter';
     font-size: 14px;
     font-weight: 500;
 }
 
 .vagas__titulo{
-    color: #101828;
+    color: var(--cinza-escuro);
     font-family: 'inter';
     font-size: 36px;
     font-weight: 600;
@@ -24,7 +24,7 @@ main{
 }
 
 .vagas__texto{
-   color: #667085;
+   color: var(--cor-cinza);
    font-family: 'inter';
    font-size: 20px;
    font-weight: 400;
