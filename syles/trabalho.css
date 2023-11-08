@@ -1,0 +1,50 @@
+.trabalho{
+    display:flex;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: left;
+    padding:0px 32px;
+    width: 50vw;
+}
+
+.trabalho__formacao{
+    font-family: 'inter';
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    color: #101828;
+    align-items: flex-start;
+    padding:0px 32px;
+    
+
+
+}
+
+.trabalho__1{
+    border-radius: 16px;
+    border: 1px solid var(--gray-200, #EAECF0);
+    background: var(--base-white, #FFF);
+    padding: 34px;
+    margin: 24px 28px;
+    text-align: left;
+
+    
+}
+.trabalho__titulo{
+   color: #101828;
+   font-family: 'inter';
+   font-size: 18px;
+   font-weight: 500;
+   padding: 13px;
+
+}
+
+.trabalho__info{
+    color:  #667085;
+    font-family: 'inter';
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 16px;
+    padding: 0 0 0 13px;
+    
+}
